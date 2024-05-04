@@ -1,0 +1,43 @@
+body{
+  background-color: black;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.stopwatch{
+  display:flex;
+  justify-content: space-between;
+  margin-top: 10em;
+
+}
+
+h1 {
+  color: burlywood;
+  font-weight: bold;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-top:2em;
+
+}
+
+h3 {
+  color: blue;
+  font-weight: bold;
+}
+
+.time{
+  color:white;
+  size: 3em;
+}
+
+
+button {
+  color: black;
+  background-color: antiquewhite;
+  align-content: space-around;
+}
+
+#master{
+  align-content: center;
+  font-size: 40px;
+}
